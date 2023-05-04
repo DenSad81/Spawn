@@ -221,7 +221,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spown1
+      value: Spawn1
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -364,7 +364,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spown3
+      value: Spawn3
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -428,7 +428,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spown2
+      value: Spawn2
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -487,7 +487,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spown
+      value: Spawn
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder

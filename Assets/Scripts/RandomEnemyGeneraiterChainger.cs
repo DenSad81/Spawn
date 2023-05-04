@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomSpawnerChainger : MonoBehaviour
+public class RandomEnemyGeneraiterChainger : MonoBehaviour
 {
-    [SerializeField] private Spawner[] _spawners;
+    [SerializeField] private EnemyGeneraiter[] _spawners;
 
     private float _actualTime = 0;
     private float _thresholdTime = 0;
@@ -12,7 +12,7 @@ public class RandomSpawnerChainger : MonoBehaviour
 
     private void Start()
     {
-        _spawners = GetComponentsInChildren<Spawner>();
+        _spawners = GetComponentsInChildren<EnemyGeneraiter>();
     }
 
     private void Update()
