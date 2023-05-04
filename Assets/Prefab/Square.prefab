@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08c337d5a80bdc64191b8f9cba45bfe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Template: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
-  EventSpoun:
+  _template: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+  EventSpawnOneCopy:
     m_PersistentCalls:
       m_Calls: []

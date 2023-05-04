@@ -2,17 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GoUp : MonoBehaviour
+public class MoverUp : MonoBehaviour
 {
-    [SerializeField] private float _velosity=11;
+    [SerializeField] private float _velosity = 11;
+
     private Transform _transform;
 
-    void Start()
+    private void Start()
     {
-        _transform = this.GetComponent<Transform>();
+        _transform = GetComponent<Transform>();
     }
 
-    void Update()
+    private void Update()
     {
         var actualPosition = _transform.position;
         actualPosition.y += _velosity * Time.deltaTime;
