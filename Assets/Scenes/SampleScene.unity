@@ -274,7 +274,7 @@ PrefabInstance:
     - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: _creature
       value: 
-      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -425,7 +425,7 @@ PrefabInstance:
     - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: _creature
       value: 
-      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -497,7 +497,7 @@ PrefabInstance:
     - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: _creature
       value: 
-      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -564,7 +564,7 @@ PrefabInstance:
     - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: _creature
       value: 
-      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
 --- !u!1 &1615722172
