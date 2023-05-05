@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class EnemyGeneraiter : MonoBehaviour
 {
-    [SerializeField] private GameObject _template;
+    [SerializeField] private GameObject _creature;
 
     public UnityEvent EventSpawnOneCopy = new UnityEvent();
 
@@ -16,7 +16,7 @@ public class EnemyGeneraiter : MonoBehaviour
 
     private void Spawn()
     {
-        GameObject newGameObject = Instantiate(_template, transform.position, Quaternion.identity);
+        GameObject newGameObjectCreature = Instantiate(_creature, transform.position, Quaternion.identity);
     }
 
 }

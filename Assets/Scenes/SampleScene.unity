@@ -221,7 +221,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spawn1
+      value: Spawner1
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -267,6 +267,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _moverUp
+      value: 
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _creature
+      value: 
+      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -364,7 +372,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spawn3
+      value: Spawner3
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -410,6 +418,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _moverUp
+      value: 
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _creature
+      value: 
+      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -428,7 +444,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spawn2
+      value: Spawner2
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -474,6 +490,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _moverUp
+      value: 
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _creature
+      value: 
+      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents:
     - {fileID: 0}
     - {fileID: 367352898986910554, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
@@ -487,7 +511,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2274798637977726125, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_Name
-      value: Spawn
+      value: Spawner
       objectReference: {fileID: 0}
     - target: {fileID: 5892503779953145363, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
       propertyPath: m_RootOrder
@@ -533,6 +557,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _moverUp
+      value: 
+      objectReference: {fileID: -8605879595678530570, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
+    - target: {fileID: 8279489856266401030, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
+      propertyPath: _creature
+      value: 
+      objectReference: {fileID: 1198784680425012900, guid: 3be35695e82608e4393ae8d69b6d571d, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b41c97e7a75ee440b8361ca8eb40774, type: 3}
 --- !u!1 &1615722172
